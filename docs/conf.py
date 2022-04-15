@@ -12,12 +12,12 @@
 #
 import os
 import sys
-# sys.path.insert(0, os.path.abspath('.'))
-sys.path.insert(0, os.path.abspath('..'))
+sys.path.insert(0, os.path.abspath('.'))
+# sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'django_cityloc_pkg_nicmmrob'
+project = 'django_cityloc_pkg'
 copyright = '2022, Author Name'
 author = 'Author Name'
 
