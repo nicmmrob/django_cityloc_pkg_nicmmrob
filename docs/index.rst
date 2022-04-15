@@ -6,8 +6,8 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. automodule:: django_cityloc_pkg
-   :members: nicmmrob
+.. automodule:: django_cityloc_pkg_nicmmrob
+   :members: 
 
 
 
